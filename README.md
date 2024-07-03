@@ -12,7 +12,7 @@
 <a href="https://www.leetcode.com/user7479pb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user7479pb" height="30" width="40" /></a>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="margin-bottom: 16px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hydrochloride-spec&label=Profile%20views&color=0e75b6&style=flat" alt="hydrochloride-spec" /> </p>
 
