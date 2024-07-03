@@ -1,4 +1,4 @@
-![logo](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
+![logo]([https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg](https://github.com/HYDROCHLORIDE-spec/HYDROCHLORIDE-spec/blob/main/Artificial-intelligence-banner-Cropped-1300x340.webp)
 <h1 align="center">Hi 👋, I'm Muhammad Haris</h1>
 <h3 align="center">A passionate software Engineer From Pakistan!</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
