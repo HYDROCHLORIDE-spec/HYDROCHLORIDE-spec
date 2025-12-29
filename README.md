@@ -20,7 +20,7 @@
 
 <p align="left"> <a href="https://twitter.com/harischloride78" target="blank"><img src="https://img.shields.io/twitter/follow/harischloride78?logo=twitter&style=for-the-badge" alt="harischloride78" /></a> </p>
 
-- 🌱 I’m currently learning **Go Lang,Rust,.Net Core**
+- 🌱 I’m currently learning **Kotlin Java Android Flutter Compose Mulit-Platform Go Lang,Rust,.Net Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HYDROCHLORIDE-spec](https://github.com/HYDROCHLORIDE-spec)
 
